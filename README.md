@@ -1,4 +1,4 @@
-## Welcome to Miyaji Lab Curry Recipe Page
+## Welcome to Miyaji Lab Cooking Recipe Page
 
 
 ## レシピ一覧
