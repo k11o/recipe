@@ -1,4 +1,4 @@
-## Welcome to Miyaji Lab Cooking Recipe Page
+## Cooking Recipe Page
 
 
 ## レシピ一覧
